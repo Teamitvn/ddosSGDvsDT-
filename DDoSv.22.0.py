@@ -11,7 +11,8 @@ import time
 import socks
 from random import randrange
 from threading import Thread
-
+#import sys
+#import re
 import terminal 
 global term
 
